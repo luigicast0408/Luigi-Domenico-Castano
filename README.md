@@ -22,7 +22,7 @@
 
 <h3 align="left">Web Development:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,docker,jquery,mysql)](https://skillicons.dev)
 
 <h3 align="left">Other Tools:</h3>
 
