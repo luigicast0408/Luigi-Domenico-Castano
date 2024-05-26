@@ -22,11 +22,11 @@
 
 <h3 align="left">Web Development:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,docker,jquery,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,jquery,mysql,tailwind)](https://skillicons.dev)
 
 <h3 align="left">Other Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,latex,arduino,raspberrypi)](https://skillicons.dev)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luigicast0408&show_icons=true&locale=en&layout=compact"/></p>
 
