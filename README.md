@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Computer Science Student from Italy 🇮🇹> </h3>
 
 - 🖥️ I’m currently working on:
--  [Programmazione2](https://github.com/luigicast0408/Programmazione-2)
+-  [IDS Ingeria Del Software](https://github.com/luigicast0408/Ingegneria-Del-Software-IDS-)
+-  [Sistemi Operativi - S.O.]
+-  [Reti Di Calcolatori]
 
 - 📚 I’m currently studying **Computer Science (UniCT L-31)**
 
